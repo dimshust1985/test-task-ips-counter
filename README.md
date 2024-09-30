@@ -40,7 +40,7 @@ You can run the program with the following command-line arguments:
 Use this to run in a simple way multithreaded processing
 
 ```
---file-path=D:\\ip_addresses\\ip_addresses.txt
+--file-path=D:\\ip_addresses\\ip_addresses
 ```
 
 ### Extended Usage:
@@ -70,4 +70,4 @@ On a machine with the following specifications:
 - Storage: SSD
 - Operating System: Windows 11
 
-The program processes a 120 GB uncompressed file in ~1 minute 30 seconds.
+The program processes a 120 GB uncompressed file in ~1 minute 30 seconds. (2GB RAM is used)
